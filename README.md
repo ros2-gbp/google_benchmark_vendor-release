@@ -1,3 +1,26 @@
+## google_benchmark_vendor (rolling) - 0.6.1-1
+
+The packages in the `google_benchmark_vendor` repository were released into the `rolling` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release google_benchmark_vendor -r rolling` on `Fri, 18 Apr 2025 17:37:18 -0000`
+
+The `google_benchmark_vendor` package was released.
+
+Version of package(s) in repository `google_benchmark_vendor`:
+
+- upstream repository: https://github.com/ament/google_benchmark_vendor.git
+- release repository: https://github.com/ros2-gbp/google_benchmark_vendor-release.git
+- rosdistro version: `0.6.0-1`
+- old version: `0.6.0-1`
+- new version: `0.6.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## google_benchmark_vendor (rolling) - 0.6.0-1
 
 The packages in the `google_benchmark_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release google_benchmark_vendor --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 11:00:59 -0000`
