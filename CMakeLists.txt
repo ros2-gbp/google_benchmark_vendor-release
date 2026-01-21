@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.5)
 project(google_benchmark_vendor CXX)
 
 option(FORCE_BUILD_VENDOR_PKG

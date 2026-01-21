@@ -2,17 +2,14 @@
 Changelog for package google_benchmark_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.7.0 (2025-04-24)
+0.5.1 (2026-01-21)
 ------------------
-
-0.6.1 (2025-04-18)
-------------------
-* Bump minimum CMake version to 3.10 (`#35 <https://github.com/ament/google_benchmark_vendor/issues/35>`_)
-* Remove CODEOWNERS and mirror-rolling-to-main workflow. (`#31 <https://github.com/ament/google_benchmark_vendor/issues/31>`_)
-* Contributors: Chris Lalancette, mosfet80
-
-0.6.0 (2024-04-26)
-------------------
+* Remove CODEOWNERS and mirror-rolling-to-main workflow. (`#31 <https://github.com/ament/google_benchmark_vendor/issues/31>`_) (`#32 <https://github.com/ament/google_benchmark_vendor/issues/32>`_)
+  They are both outdated and both no longer serving their
+  intended purpose.
+  (cherry picked from commit 0de27c29e3fa10c13b579f4b31fe6e03e4352ce2)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
 
 0.5.0 (2024-04-16)
 ------------------
